@@ -1,0 +1,13 @@
+/Users/amori/projects/world-game/target/rls/debug/deps/amethyst-edab4d4a94fc6c03.rmeta: /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/lib.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/prelude.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/app.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/error.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/game_data.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/logger.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/state.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/vergen.rs /Users/amori/projects/world-game/target/rls/debug/build/amethyst-3daa69be56f086ab/out/version.rs
+
+/Users/amori/projects/world-game/target/rls/debug/deps/amethyst-edab4d4a94fc6c03.d: /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/lib.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/prelude.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/app.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/error.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/game_data.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/logger.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/state.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/vergen.rs /Users/amori/projects/world-game/target/rls/debug/build/amethyst-3daa69be56f086ab/out/version.rs
+
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/lib.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/prelude.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/app.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/error.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/game_data.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/logger.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/state.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/amethyst-0.8.0/src/vergen.rs:
+/Users/amori/projects/world-game/target/rls/debug/build/amethyst-3daa69be56f086ab/out/version.rs:

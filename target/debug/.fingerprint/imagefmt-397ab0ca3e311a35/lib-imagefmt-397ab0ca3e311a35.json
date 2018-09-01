@@ -1,0 +1,1 @@
+{"rustc":5362242119021711120,"features":"[\"bmp\", \"default\", \"flate2\", \"jpeg\", \"png\", \"tga\"]","target":4881203333045385260,"profile":7990393541957723157,"path":15458600295034713976,"deps":[["flate2 v0.2.20","flate2",15925336536031913449]],"local":[{"Precalculated":"4.0.0"}],"rustflags":[],"edition":"Edition2015"}

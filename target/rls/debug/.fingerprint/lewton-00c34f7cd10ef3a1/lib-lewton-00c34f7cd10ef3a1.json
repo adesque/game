@@ -1,0 +1,1 @@
+{"rustc":4510804348743689498,"features":"[\"default\", \"ogg\"]","target":10921444557164683838,"profile":14245719688690734572,"path":644680802104017778,"deps":[["byteorder v1.2.6","byteorder",16146113058512325188],["ogg v0.4.1","ogg",11668234434546937337]],"local":[{"Precalculated":"0.5.2"}],"rustflags":[],"edition":"Edition2015"}

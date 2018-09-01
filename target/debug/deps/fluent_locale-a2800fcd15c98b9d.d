@@ -1,0 +1,11 @@
+/Users/amori/Github/games/flower/target/debug/deps/libfluent_locale-a2800fcd15c98b9d.rlib: /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/lib.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/accepted_languages.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/mod.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/options.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/parser.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/mod.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/likely_subtags.rs
+
+/Users/amori/Github/games/flower/target/debug/deps/fluent_locale-a2800fcd15c98b9d.d: /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/lib.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/accepted_languages.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/mod.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/options.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/parser.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/mod.rs /Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/likely_subtags.rs
+
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/lib.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/accepted_languages.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/mod.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/options.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/locale/parser.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/mod.rs:
+/Users/amori/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.3.2/src/negotiate/likely_subtags.rs:

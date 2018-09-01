@@ -1,0 +1,1 @@
+{"rustc":4510804348743689498,"features":"[]","target":4182959877861662206,"profile":14245719688690734572,"path":14020329010868351784,"deps":[["objc v0.2.5","objc",15824134324366956759],["objc-foundation v0.1.1","objc_foundation",4771008794502588258],["objc_id v0.1.1","objc_id",8380647019178246012]],"local":[{"Precalculated":"0.4.6"}],"rustflags":[],"edition":"Edition2015"}

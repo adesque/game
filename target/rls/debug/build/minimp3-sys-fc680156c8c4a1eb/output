@@ -1,0 +1,35 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "minimp3/" "-Wall" "-Wextra" "-DMINIMP3_IMPLEMENTATION" "-o" "/Users/amori/projects/world-game/target/rls/debug/build/minimp3-sys-fc680156c8c4a1eb/out/minimp3.o" "-c" "minimp3.c"
+exit code: 0
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+running: "ar" "crs" "/Users/amori/projects/world-game/target/rls/debug/build/minimp3-sys-fc680156c8c4a1eb/out/libminimp3.a" "/Users/amori/projects/world-game/target/rls/debug/build/minimp3-sys-fc680156c8c4a1eb/out/minimp3.o"
+exit code: 0
+TARGET = Some("x86_64-apple-darwin")
+cargo:rustc-link-lib=static=minimp3
+cargo:rustc-link-search=native=/Users/amori/projects/world-game/target/rls/debug/build/minimp3-sys-fc680156c8c4a1eb/out
