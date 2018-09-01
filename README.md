@@ -1,4 +1,4 @@
-# {title}
+# {game title coming soon}
 
 Future game milestones
 
