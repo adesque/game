@@ -1,0 +1,10 @@
+(
+  title: "game",
+  dimensions: Some((1600, 1100)),
+  max_dimensions: None,
+  min_dimensions: None,
+  fullscreen: false,
+  multisampling: 1,
+  visibility: true,
+  vsync: true,
+)

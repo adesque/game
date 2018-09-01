@@ -1,0 +1,1 @@
+{"rustc":5362242119021711120,"features":"[\"audio_unit\", \"core_audio\"]","target":13123923088509177768,"profile":7282077418741342047,"path":13674288185280175373,"deps":[["bindgen v0.32.3","bindgen",4405725442883066078]],"local":[{"Precalculated":"0.2.2"}],"rustflags":[],"edition":"Edition2015"}
